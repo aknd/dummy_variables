@@ -1,5 +1,5 @@
 require "dummy_variables/version"
+require "dummy_variables/calendar"
 
 module DummyVariables
-  # Your code goes here...
 end
