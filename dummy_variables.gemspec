@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["akihirokondo511@gmail.com"]
 
   spec.summary       = %q{This is a gem that generates dummy variables for each date.}
-  spec.description   = %q{This is a gem that generates dummy variables like '1 if holiday else 0' for each date.}
+  spec.description   = %q{This is a gem that generates dummy variables like 'if holiday then 1 else 0' for each date.}
   spec.homepage      = "https://github.com/aknd/dummy_variables"
   spec.license       = "MIT"
 
